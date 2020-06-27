@@ -1,0 +1,8 @@
+Hey, welcome to "Python on Windows".
+To install Python, download Python 3.7 (or higher) from http://www.python.org.
+
+Extremely important: when you install it, make sure to check "Add Python to PATH".
+Once Python is installed, you can execute the program "cmd.exe ". This is a command-line interface to your computer. Here, just type the word python  and that will start the Python program.
+At all points during the course, you can always type python name_of_file.py  and that will execute the code of a file called name_of_file.py 
+If you have multiple versions of Python installed, such as a version you installed a while ago, you'll need to use the complete path to Python in order to run it. Usually it'll look something like this:
+* C:\Users\yourname\AppData\Local\Programs\Python\Python37-32\python.exe

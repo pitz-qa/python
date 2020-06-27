@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45f77f99-f832-4fac-b1f5-2478cba7c90f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/candidates/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/candidates/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/positions/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/niyuj.sharpen.python.ATS/positions/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/niyuj.sharpen.python.ATS" />
+  </component>
+  <component name="ProjectId" id="1ZDEDA8ShkFrXalcaMmhzHflUB0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f77f99-f832-4fac-b1f5-2478cba7c90f" name="Default Changelist" comment="" />
+      <created>1584365141416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584365141416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584365152602">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017/1792.23.1366.745@0.23.1792.1017" timestamp="1584365152602" />
+  </component>
+</project>

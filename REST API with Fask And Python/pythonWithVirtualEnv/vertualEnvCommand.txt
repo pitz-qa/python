@@ -1,0 +1,15 @@
+sudo pip3 install virtualenv
+virtualenv venv --python=python3
+source venv/bin/activate
+deactivate
+pip install Flask-RESTful
+Flask API security Doc:
+1. https://books.tecladocode.com/rest-apis-with-flask-and-python/
+2. http://robertheaton.com/2014/03/27/how-does-https-actually-work/
+3. https://www.digicert.com/ssl/
+4. https://www.websecurity.symantec.com/security-topics/how-does-ssl-handshake-work
+
+JWTExtend&RefreshToken
+1. https://arac.tecladocode.com/
+2. https://flask-jwt-extended.readthedocs.io/en/latest/index.html
+3. https://tools.ietf.org/html/rfc7519
